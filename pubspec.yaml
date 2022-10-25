@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  lime: ^0.0.15
+  lime:
+        url: https://github.com/takenet/lime-dart
 
 dev_dependencies:
   flutter_test:
