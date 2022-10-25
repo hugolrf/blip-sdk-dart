@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   lime:
-        url: https://github.com/takenet/lime-dart
+    git:
+      url: https://github.com/takenet/lime-dart
 
 dev_dependencies:
   flutter_test:
